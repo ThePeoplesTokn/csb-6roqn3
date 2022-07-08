@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://thepeoplestokn.github.io/csb-6roqn3/static/css/main.49b4d530.chunk.css",
+    "main.js": "https://thepeoplestokn.github.io/csb-6roqn3/static/js/main.5f643e83.chunk.js",
+    "main.js.map": "https://thepeoplestokn.github.io/csb-6roqn3/static/js/main.5f643e83.chunk.js.map",
+    "runtime-main.js": "https://thepeoplestokn.github.io/csb-6roqn3/static/js/runtime-main.e0320fe0.js",
+    "runtime-main.js.map": "https://thepeoplestokn.github.io/csb-6roqn3/static/js/runtime-main.e0320fe0.js.map",
+    "static/css/2.4659568d.chunk.css": "https://thepeoplestokn.github.io/csb-6roqn3/static/css/2.4659568d.chunk.css",
+    "static/js/2.b24a0244.chunk.js": "https://thepeoplestokn.github.io/csb-6roqn3/static/js/2.b24a0244.chunk.js",
+    "static/js/2.b24a0244.chunk.js.map": "https://thepeoplestokn.github.io/csb-6roqn3/static/js/2.b24a0244.chunk.js.map",
+    "static/js/3.1837b371.chunk.js": "https://thepeoplestokn.github.io/csb-6roqn3/static/js/3.1837b371.chunk.js",
+    "static/js/3.1837b371.chunk.js.map": "https://thepeoplestokn.github.io/csb-6roqn3/static/js/3.1837b371.chunk.js.map",
+    "index.html": "https://thepeoplestokn.github.io/csb-6roqn3/index.html",
+    "static/css/2.4659568d.chunk.css.map": "https://thepeoplestokn.github.io/csb-6roqn3/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.49b4d530.chunk.css.map": "https://thepeoplestokn.github.io/csb-6roqn3/static/css/main.49b4d530.chunk.css.map",
+    "static/js/2.b24a0244.chunk.js.LICENSE.txt": "https://thepeoplestokn.github.io/csb-6roqn3/static/js/2.b24a0244.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0320fe0.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.b24a0244.chunk.js",
+    "static/css/main.49b4d530.chunk.css",
+    "static/js/main.5f643e83.chunk.js"
+  ]
+}
